@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" GeneratorFunctionsComponentClassName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" UserFunctionsComponentName="QueriesTableAdapter" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.oracle_project.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.OracleClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VIEW_ALL_ORDER_ADMINTableAdapter" GeneratorDataComponentClassName="VIEW_ALL_ORDER_ADMINTableAdapter" Name="VIEW_ALL_ORDER_ADMIN" UserDataComponentName="VIEW_ALL_ORDER_ADMINTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="CLOTHE.VIEW_ALL_ORDER_ADMIN" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        VIEW_ALL_ORDER_ADMIN.*, ID AS EXPR1, ITEM AS EXPR2, CUSTOMERNAME AS EXPR3, QUANTITY AS EXPR4, UNITPRICE AS EXPR5, TOTALPRICE AS EXPR6, IMG AS EXPR7, STATUS AS EXPR8, 
+                         CREATEDDATE AS EXPR9
+FROM            VIEW_ALL_ORDER_ADMIN</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="CUSTOMERNAME" DataSetColumn="CUSTOMERNAME" />
+              <Mapping SourceColumn="ITEM" DataSetColumn="ITEM" />
+              <Mapping SourceColumn="QUANTITY" DataSetColumn="QUANTITY" />
+              <Mapping SourceColumn="UNITPRICE" DataSetColumn="UNITPRICE" />
+              <Mapping SourceColumn="TOTALPRICE" DataSetColumn="TOTALPRICE" />
+              <Mapping SourceColumn="IMG" DataSetColumn="IMG" />
+              <Mapping SourceColumn="STATUS" DataSetColumn="STATUS" />
+              <Mapping SourceColumn="CREATEDDATE" DataSetColumn="CREATEDDATE" />
+              <Mapping SourceColumn="EXPR1" DataSetColumn="EXPR1" />
+              <Mapping SourceColumn="EXPR2" DataSetColumn="EXPR2" />
+              <Mapping SourceColumn="EXPR3" DataSetColumn="EXPR3" />
+              <Mapping SourceColumn="EXPR4" DataSetColumn="EXPR4" />
+              <Mapping SourceColumn="EXPR5" DataSetColumn="EXPR5" />
+              <Mapping SourceColumn="EXPR6" DataSetColumn="EXPR6" />
+              <Mapping SourceColumn="EXPR7" DataSetColumn="EXPR7" />
+              <Mapping SourceColumn="EXPR8" DataSetColumn="EXPR8" />
+              <Mapping SourceColumn="EXPR9" DataSetColumn="EXPR9" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="VIEW_ALL_ORDER_ADMIN" msprop:Generator_RowClassName="VIEW_ALL_ORDER_ADMINRow" msprop:Generator_RowEvHandlerName="VIEW_ALL_ORDER_ADMINRowChangeEventHandler" msprop:Generator_RowDeletedName="VIEW_ALL_ORDER_ADMINRowDeleted" msprop:Generator_RowDeletingName="VIEW_ALL_ORDER_ADMINRowDeleting" msprop:Generator_RowEvArgName="VIEW_ALL_ORDER_ADMINRowChangeEvent" msprop:Generator_TablePropName="VIEW_ALL_ORDER_ADMIN" msprop:Generator_RowChangedName="VIEW_ALL_ORDER_ADMINRowChanged" msprop:Generator_UserTableName="VIEW_ALL_ORDER_ADMIN" msprop:Generator_RowChangingName="VIEW_ALL_ORDER_ADMINRowChanging" msprop:Generator_TableClassName="VIEW_ALL_ORDER_ADMINDataTable" msprop:Generator_TableVarName="tableVIEW_ALL_ORDER_ADMIN">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnVarNameInTable="columnID" type="xs:decimal" />
+              <xs:element name="CUSTOMERNAME" msprop:Generator_UserColumnName="CUSTOMERNAME" msprop:Generator_ColumnPropNameInTable="CUSTOMERNAMEColumn" msprop:Generator_ColumnPropNameInRow="CUSTOMERNAME" msprop:Generator_ColumnVarNameInTable="columnCUSTOMERNAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ITEM" msprop:Generator_UserColumnName="ITEM" msprop:Generator_ColumnPropNameInTable="ITEMColumn" msprop:Generator_ColumnPropNameInRow="ITEM" msprop:Generator_ColumnVarNameInTable="columnITEM">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="QUANTITY" msprop:Generator_UserColumnName="QUANTITY" msprop:Generator_ColumnPropNameInTable="QUANTITYColumn" msprop:Generator_ColumnPropNameInRow="QUANTITY" msprop:Generator_ColumnVarNameInTable="columnQUANTITY" type="xs:decimal" minOccurs="0" />
+              <xs:element name="UNITPRICE" msprop:Generator_UserColumnName="UNITPRICE" msprop:Generator_ColumnPropNameInTable="UNITPRICEColumn" msprop:Generator_ColumnPropNameInRow="UNITPRICE" msprop:Generator_ColumnVarNameInTable="columnUNITPRICE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TOTALPRICE" msprop:Generator_UserColumnName="TOTALPRICE" msprop:Generator_ColumnPropNameInTable="TOTALPRICEColumn" msprop:Generator_ColumnPropNameInRow="TOTALPRICE" msprop:Generator_ColumnVarNameInTable="columnTOTALPRICE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="IMG" msprop:Generator_UserColumnName="IMG" msprop:Generator_ColumnPropNameInTable="IMGColumn" msprop:Generator_ColumnPropNameInRow="IMG" msprop:Generator_ColumnVarNameInTable="columnIMG" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="STATUS" msprop:Generator_UserColumnName="STATUS" msprop:Generator_ColumnPropNameInTable="STATUSColumn" msprop:Generator_ColumnPropNameInRow="STATUS" msprop:Generator_ColumnVarNameInTable="columnSTATUS" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CREATEDDATE" msprop:Generator_UserColumnName="CREATEDDATE" msprop:Generator_ColumnPropNameInTable="CREATEDDATEColumn" msprop:Generator_ColumnPropNameInRow="CREATEDDATE" msprop:Generator_ColumnVarNameInTable="columnCREATEDDATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="EXPR1" msprop:Generator_UserColumnName="EXPR1" msprop:Generator_ColumnPropNameInTable="EXPR1Column" msprop:Generator_ColumnPropNameInRow="EXPR1" msprop:Generator_ColumnVarNameInTable="columnEXPR1" type="xs:decimal" />
+              <xs:element name="EXPR2" msprop:Generator_UserColumnName="EXPR2" msprop:Generator_ColumnPropNameInTable="EXPR2Column" msprop:Generator_ColumnPropNameInRow="EXPR2" msprop:Generator_ColumnVarNameInTable="columnEXPR2">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EXPR3" msprop:Generator_UserColumnName="EXPR3" msprop:Generator_ColumnPropNameInTable="EXPR3Column" msprop:Generator_ColumnPropNameInRow="EXPR3" msprop:Generator_ColumnVarNameInTable="columnEXPR3" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EXPR4" msprop:Generator_UserColumnName="EXPR4" msprop:Generator_ColumnPropNameInTable="EXPR4Column" msprop:Generator_ColumnPropNameInRow="EXPR4" msprop:Generator_ColumnVarNameInTable="columnEXPR4" type="xs:decimal" minOccurs="0" />
+              <xs:element name="EXPR5" msprop:Generator_UserColumnName="EXPR5" msprop:Generator_ColumnPropNameInTable="EXPR5Column" msprop:Generator_ColumnPropNameInRow="EXPR5" msprop:Generator_ColumnVarNameInTable="columnEXPR5" type="xs:decimal" minOccurs="0" />
+              <xs:element name="EXPR6" msprop:Generator_UserColumnName="EXPR6" msprop:Generator_ColumnPropNameInTable="EXPR6Column" msprop:Generator_ColumnPropNameInRow="EXPR6" msprop:Generator_ColumnVarNameInTable="columnEXPR6" type="xs:decimal" minOccurs="0" />
+              <xs:element name="EXPR7" msprop:Generator_UserColumnName="EXPR7" msprop:Generator_ColumnPropNameInTable="EXPR7Column" msprop:Generator_ColumnPropNameInRow="EXPR7" msprop:Generator_ColumnVarNameInTable="columnEXPR7" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="EXPR8" msprop:Generator_UserColumnName="EXPR8" msprop:Generator_ColumnPropNameInTable="EXPR8Column" msprop:Generator_ColumnPropNameInRow="EXPR8" msprop:Generator_ColumnVarNameInTable="columnEXPR8" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EXPR9" msprop:Generator_UserColumnName="EXPR9" msprop:Generator_ColumnPropNameInTable="EXPR9Column" msprop:Generator_ColumnPropNameInRow="EXPR9" msprop:Generator_ColumnVarNameInTable="columnEXPR9" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

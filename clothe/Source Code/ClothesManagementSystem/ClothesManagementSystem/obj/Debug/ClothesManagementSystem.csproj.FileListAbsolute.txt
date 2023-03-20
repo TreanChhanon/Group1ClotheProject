@@ -1,0 +1,197 @@
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\ClothesManagementSystem.exe.config
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\ClothesManagementSystem.exe
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\ClothesManagementSystem.pdb
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Buffers.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Memory.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Text.Json.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Buffers.xml
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Memory.xml
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Text.Json.xml
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.MainForm.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.frmLogin.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Properties.Resources.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.GenerateResource.cache
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.CoreCompileInputs.cache
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.CopyComplete
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.exe
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.pdb
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\Guna.UI.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\FontAwesome.Sharp.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormDashboard.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormPayment.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormProfile.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormReport.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormShopping.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormWoman.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormBag.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormChildren.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormJewelry.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormMale.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormShoppingCart.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormUpdateOrder.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormAddPayment.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\stdole.dll
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormRegister.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormInvoice.resources
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.AssemblyReference.cache
+D:\Users\sakav\OneDrive\Desktop\Clothes Management System\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\ClothesManagementSystem.exe.config
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\ClothesManagementSystem.exe
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\ClothesManagementSystem.pdb
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\FontAwesome.Sharp.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\Guna.UI.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Buffers.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Memory.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Text.Json.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\stdole.dll
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Buffers.xml
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Memory.xml
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Text.Json.xml
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.AssemblyReference.cache
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormAddPayment.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormInvoice.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormRegister.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormShoppingCart.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormBag.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormChildren.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormDashboard.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormJewelry.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormMale.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormPayment.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormReport.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormShopping.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormUpdateOrder.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormWoman.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.MainForm.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormProfile.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.frmLogin.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Properties.Resources.resources
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.GenerateResource.cache
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.CoreCompileInputs.cache
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.CopyComplete
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.exe
+D:\Users\sakav\OneDrive\Desktop\OracleClotheProject\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.pdb
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\ClothesManagementSystem.exe.config
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\ClothesManagementSystem.exe
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\ClothesManagementSystem.pdb
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Text.Json.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\stdole.dll
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Text.Json.xml
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormAddPayment.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormInvoice.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormRegister.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormShoppingCart.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormBag.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormChildren.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormDashboard.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormJewelry.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormMale.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormPayment.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormReport.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormShopping.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormUpdateOrder.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormWoman.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.MainForm.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.FormProfile.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.frmLogin.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Properties.Resources.resources
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.GenerateResource.cache
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.CopyComplete
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.exe
+C:\Users\Leang Hout\Desktop\Source Code\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.pdb

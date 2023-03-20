@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" GeneratorFunctionsComponentClassName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" UserFunctionsComponentName="QueriesTableAdapter" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.ClothesManagementSystem.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.OracleClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="INVOICETableAdapter" GeneratorDataComponentClassName="INVOICETableAdapter" Name="INVOICE" UserDataComponentName="INVOICETableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="CLOTHE.INVOICE" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select * from invoice</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="ITEM" DataSetColumn="ITEM" />
+              <Mapping SourceColumn="COLOR" DataSetColumn="COLOR" />
+              <Mapping SourceColumn="ITEMSIZE" DataSetColumn="ITEMSIZE" />
+              <Mapping SourceColumn="QUANTITY" DataSetColumn="QUANTITY" />
+              <Mapping SourceColumn="UNITPRICE" DataSetColumn="UNITPRICE" />
+              <Mapping SourceColumn="TOTALPRICE" DataSetColumn="TOTALPRICE" />
+              <Mapping SourceColumn="ORDERDATE" DataSetColumn="ORDERDATE" />
+              <Mapping SourceColumn="CUSTOMERID" DataSetColumn="CUSTOMERID" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SUMAMOUNTTableAdapter" GeneratorDataComponentClassName="SUMAMOUNTTableAdapter" Name="SUMAMOUNT" UserDataComponentName="SUMAMOUNTTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="CLOTHE.SUMAMOUNT" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select * from sumamount</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="TOTALAMOUNT" DataSetColumn="TOTALAMOUNT" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="INVOICE" msprop:Generator_RowEvHandlerName="INVOICERowChangeEventHandler" msprop:Generator_RowDeletedName="INVOICERowDeleted" msprop:Generator_RowDeletingName="INVOICERowDeleting" msprop:Generator_RowEvArgName="INVOICERowChangeEvent" msprop:Generator_TablePropName="INVOICE" msprop:Generator_RowChangedName="INVOICERowChanged" msprop:Generator_RowChangingName="INVOICERowChanging" msprop:Generator_TableClassName="INVOICEDataTable" msprop:Generator_RowClassName="INVOICERow" msprop:Generator_TableVarName="tableINVOICE" msprop:Generator_UserTableName="INVOICE">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_UserColumnName="ID" type="xs:decimal" />
+              <xs:element name="ITEM" msprop:Generator_ColumnPropNameInRow="ITEM" msprop:Generator_ColumnPropNameInTable="ITEMColumn" msprop:Generator_ColumnVarNameInTable="columnITEM" msprop:Generator_UserColumnName="ITEM">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="COLOR" msprop:Generator_ColumnPropNameInRow="COLOR" msprop:Generator_ColumnPropNameInTable="COLORColumn" msprop:Generator_ColumnVarNameInTable="columnCOLOR" msprop:Generator_UserColumnName="COLOR" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ITEMSIZE" msprop:Generator_ColumnPropNameInRow="ITEMSIZE" msprop:Generator_ColumnPropNameInTable="ITEMSIZEColumn" msprop:Generator_ColumnVarNameInTable="columnITEMSIZE" msprop:Generator_UserColumnName="ITEMSIZE" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="QUANTITY" msprop:Generator_ColumnPropNameInRow="QUANTITY" msprop:Generator_ColumnPropNameInTable="QUANTITYColumn" msprop:Generator_ColumnVarNameInTable="columnQUANTITY" msprop:Generator_UserColumnName="QUANTITY" type="xs:decimal" minOccurs="0" />
+              <xs:element name="UNITPRICE" msprop:Generator_ColumnPropNameInRow="UNITPRICE" msprop:Generator_ColumnPropNameInTable="UNITPRICEColumn" msprop:Generator_ColumnVarNameInTable="columnUNITPRICE" msprop:Generator_UserColumnName="UNITPRICE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TOTALPRICE" msprop:Generator_ColumnPropNameInRow="TOTALPRICE" msprop:Generator_ColumnPropNameInTable="TOTALPRICEColumn" msprop:Generator_ColumnVarNameInTable="columnTOTALPRICE" msprop:Generator_UserColumnName="TOTALPRICE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ORDERDATE" msprop:Generator_ColumnPropNameInRow="ORDERDATE" msprop:Generator_ColumnPropNameInTable="ORDERDATEColumn" msprop:Generator_ColumnVarNameInTable="columnORDERDATE" msprop:Generator_UserColumnName="ORDERDATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="CUSTOMERID" msprop:Generator_ColumnPropNameInRow="CUSTOMERID" msprop:Generator_ColumnPropNameInTable="CUSTOMERIDColumn" msprop:Generator_ColumnVarNameInTable="columnCUSTOMERID" msprop:Generator_UserColumnName="CUSTOMERID" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="SUMAMOUNT" msprop:Generator_RowEvHandlerName="SUMAMOUNTRowChangeEventHandler" msprop:Generator_RowDeletedName="SUMAMOUNTRowDeleted" msprop:Generator_RowDeletingName="SUMAMOUNTRowDeleting" msprop:Generator_RowEvArgName="SUMAMOUNTRowChangeEvent" msprop:Generator_TablePropName="SUMAMOUNT" msprop:Generator_RowChangedName="SUMAMOUNTRowChanged" msprop:Generator_RowChangingName="SUMAMOUNTRowChanging" msprop:Generator_TableClassName="SUMAMOUNTDataTable" msprop:Generator_RowClassName="SUMAMOUNTRow" msprop:Generator_TableVarName="tableSUMAMOUNT" msprop:Generator_UserTableName="SUMAMOUNT">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TOTALAMOUNT" msprop:Generator_ColumnPropNameInRow="TOTALAMOUNT" msprop:Generator_ColumnPropNameInTable="TOTALAMOUNTColumn" msprop:Generator_ColumnVarNameInTable="columnTOTALAMOUNT" msprop:Generator_UserColumnName="TOTALAMOUNT" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

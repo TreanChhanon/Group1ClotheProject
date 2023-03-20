@@ -1,0 +1,112 @@
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\oracle_project.exe.config
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\oracle_project.exe
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\oracle_project.pdb
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.Buffers.dll
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.Memory.dll
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.Text.Encodings.Web.dll
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.Text.Json.dll
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.ValueTuple.dll
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.Buffers.xml
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.Memory.xml
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.Text.Encodings.Web.xml
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.Text.Json.xml
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\bin\Debug\System.ValueTuple.xml
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.csprojAssemblyReference.cache
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.Properties.Resources.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.csproj.GenerateResource.cache
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.csproj.CoreCompileInputs.cache
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.csproj.CopyComplete
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.exe
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.pdb
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.frmCategory.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.FormEmployee.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.FormProduct.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.FormRestoreProduct.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.FormMember.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.FormLogin.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.MainForm.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.ChangePassword.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.FormCustomer.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.FormSales.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.FormSalesDetails.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.FormSuplier.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.FormShipper.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.FormPurchase.resources
+D:\Users\sakav\OneDrive\Desktop\oracle\oracle_project\oracle_project\obj\Debug\oracle_project.FormPurchaseDetails.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\oracle_project.exe.config
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\oracle_project.exe
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\oracle_project.pdb
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.Buffers.dll
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.Memory.dll
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.Text.Encodings.Web.dll
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.Text.Json.dll
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.ValueTuple.dll
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.Buffers.xml
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.Memory.xml
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.Text.Encodings.Web.xml
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.Text.Json.xml
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\bin\Debug\System.ValueTuple.xml
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.csprojAssemblyReference.cache
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.ChangePassword.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.frmCategory.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.FormCustomer.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.FormEmployee.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.FormLogin.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.FormMember.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.FormProduct.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.FormPurchase.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.FormPurchaseDetails.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.FormRestoreProduct.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.FormSales.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.FormSalesDetails.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.FormShipper.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.FormSuplier.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.MainForm.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.Properties.Resources.resources
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.csproj.GenerateResource.cache
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.csproj.CoreCompileInputs.cache
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.csproj.CopyComplete
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.exe
+D:\Users\sakav\OneDrive\Desktop\Admin\oracle_project\oracle_project\obj\Debug\oracle_project.pdb
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.csproj.AssemblyReference.cache
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.ChangePassword.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.frmCategory.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.FormCustomer.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.FormEmployee.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.FormLogin.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.FormMember.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.FormOrder.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.FormPayment.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.FormProduct.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.FormPurchase.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.FormPurchaseDetails.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.FormRestoreProduct.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.FormSaleReport.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.FormSalesDetails.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.MainForm.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.MonthlyReport.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.Properties.Resources.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.WeeklyReport.resources
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.csproj.GenerateResource.cache
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.csproj.CoreCompileInputs.cache
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.exe
+C:\Users\Leang Hout\Desktop\Source Code\oracle_project\oracle_project\obj\Debug\oracle_project.pdb
